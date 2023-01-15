@@ -16,10 +16,8 @@ This is Tkinter based simple Calculator app which will allow us to do simple cal
 
 Prerequisites to run project are mentioned below.
 
-```bash
   - Python
   - Windows based os if you want to install exe.
-```
     
 ## Feedback
 
